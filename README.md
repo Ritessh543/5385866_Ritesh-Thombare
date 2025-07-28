@@ -6,4 +6,4 @@
 ![Certificate 1](/GreatLearning)
 
 ### 2. [GIT Certificate]
-![Certificate 2](/GIT certificate)
+![Certificate 2](/GIT certificate.png)
